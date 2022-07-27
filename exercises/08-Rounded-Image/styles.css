@@ -2,5 +2,14 @@ body {
 	background: #bdbdbd;
 }
 .rounded {
+	object-position: 0px 0px;
+	height: 500px;
+	width: 500px;
+	object-fit: cover;
 	border-radius: 100%;
 }
+/*
+object-fit:cover (it waits to superpose the second edge of the image with the established shape)
+object-fit:contain (it superposes the first edge of the image with the established shape)
+vh and vw units to view-height and view-width
+*/

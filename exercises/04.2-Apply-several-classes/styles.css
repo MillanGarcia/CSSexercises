@@ -7,9 +7,10 @@
 	text-align: center;
 	line-height: 80px;
 	border-radius: 5px;
+	/*here can choose the features applied to card and the inside characters*/
 }
 .card:after {
-	font-size: 70%;
+	font-size: 70%; /*symbol only, proportional to the card*/
 	font-weight: bold;
 }
 

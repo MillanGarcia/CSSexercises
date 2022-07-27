@@ -1,5 +1,18 @@
-/** Insert your code here **/
+.li2 {
+	background-color: green;
+}
+ul li {
+	color: red !important;
+	/* If I dont use "!important" why does the preference work with the code below this one?*/
+}
+/* This works too:
+.ul1 li {
+	color: red;
+} */
 
+tr:nth-child(2n-1) {
+	background-color: yellow;
+}
 /*********** READ ONLY BLOCK ******
 You CANNOT UPDATE anything from here on,
 only add lines of code on top of this lines

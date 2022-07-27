@@ -1,3 +1,7 @@
 li {
 	list-style: none;
 }
+i:hover {
+	color: yellow;
+	/*How can I make icons bigger while the mouse is over it*/
+}

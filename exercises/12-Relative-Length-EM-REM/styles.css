@@ -6,3 +6,13 @@
 }
 
 /* YOUR CODE BELOW THIS LINE */
+h2 {
+	font-size: 0.8em;
+}
+h3 {
+	font-size: 0.8rem;
+}
+/*
+em: relative to "parent`s" font-size
+rem: relative to the original font-size of the page; what does it mean?
+*/

@@ -1,9 +1,8 @@
-ul li{
+ul li {
 	background: blue;
 }
-
-#thirditem{
+#thirditem {
 	background: yellow;
-} 
+	background: green !important; /*hierarchy->#id->lower code same #id->!important*/
+}
 /****** DON NOT EDIT ANYTHING ABOVE THIS LINE ****/
-  
